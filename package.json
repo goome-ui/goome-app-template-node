@@ -1,0 +1,16 @@
+{
+  "name": "my-goome-app",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "license": "GPL-3.0-only",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "goome": "https://github.com/goome-ui/node-goome/releases/download/v0.5.0/goome-0.5.0.tgz"
+  }
+}

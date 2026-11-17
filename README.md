@@ -69,7 +69,7 @@ node main.js
 
 <p align="center">
 Anywhere else npm builds the addon with node-gyp the first time, that needs a C compiler and Python. On Debian/Ubuntu thats <code>sudo apt install build-essential python3</code>.<br> <br>
-To update goome swap <code>0.5.2</code> in both spots of the goome url in <code>package.json</code> for a newer release and run <code>npm install</code> again.
+To update goome swap <code>0.5.3</code> in both spots of the goome url in <code>package.json</code> for a newer release and run <code>npm install</code> again.
 </p>
 </details>
 
